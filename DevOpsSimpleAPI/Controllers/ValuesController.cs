@@ -26,6 +26,7 @@ namespace DevOpsSimpleAPI.Controllers
         // POST api/values
         public void Post([FromBody]string value)
         {
+            int x = 0;
         }
 
         // PUT api/values/5
